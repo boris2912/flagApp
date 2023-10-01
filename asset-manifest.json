@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/flagApp/static/css/main.073c9b0a.css",
-    "main.js": "/flagApp/static/js/main.6d8120f1.js",
-    "static/js/787.b4a7cbc0.chunk.js": "/flagApp/static/js/787.b4a7cbc0.chunk.js",
-    "static/media/logo.svg": "/flagApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/flagApp/static/css/main.101173e1.css",
+    "main.js": "/flagApp/static/js/main.e8075f74.js",
     "index.html": "/flagApp/index.html",
-    "main.073c9b0a.css.map": "/flagApp/static/css/main.073c9b0a.css.map",
-    "main.6d8120f1.js.map": "/flagApp/static/js/main.6d8120f1.js.map",
-    "787.b4a7cbc0.chunk.js.map": "/flagApp/static/js/787.b4a7cbc0.chunk.js.map"
+    "main.101173e1.css.map": "/flagApp/static/css/main.101173e1.css.map",
+    "main.e8075f74.js.map": "/flagApp/static/js/main.e8075f74.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6d8120f1.js"
+    "static/css/main.101173e1.css",
+    "static/js/main.e8075f74.js"
   ]
 }
